@@ -1,0 +1,32 @@
+.logo {
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+}
+.header-layout {
+  padding: 0px 15rem;
+}
+
+.menu {
+  display: flex;
+}
+
+.link {
+  margin: 0px 20px;
+  color: #19345e;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.headerWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button > Button {
+  background-color: #f47522;
+  border-radius: 10px;
+  height: 40px;
+  width: 140px;
+  color: white;
+}

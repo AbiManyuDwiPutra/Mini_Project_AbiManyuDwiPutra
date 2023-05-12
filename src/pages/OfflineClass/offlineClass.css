@@ -1,0 +1,165 @@
+.offlineClass-title {
+  position: relative;
+  width: 1250px;
+  top: 150px;
+  max-width: 1250px;
+  height: 864px;
+  margin: 50px;
+  font-size: 30px;
+  color: white;
+}
+
+.offlineClass-title>p {
+  font-size: 18px;
+}
+
+.offlineClass-about {
+  width: 600px;
+  margin: 50px;
+  font-size: 30px;
+  color: #19345e;
+}
+
+.offlineClass-about>p {
+  font-size: 18px;
+}
+
+.img-offlineClass {
+  /* justify-content: center; */
+  padding-left: 150px;
+  margin: 50px;
+  height: 456px;
+  width: 20px;
+}
+
+.section2-offlineClass-content {
+  align-self: center;
+  text-align: center;
+  width: 500px;
+  margin-top: 50px;
+  max-width: 500px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.card-product-offlineClass {
+  align-items: center;
+  margin: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.content-offlineClass {
+  list-style: none;
+}
+
+.reward-section {
+  align-items: center;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.reward-text {
+  margin-left: 20px;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: large;
+  align-items: center;
+}
+
+.section2-offlineClass {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.box-shadow {
+  box-shadow: 2px 1px 10px 0px grey;
+}
+
+.offlineClass-header {
+  position: absolute;
+  width: fit-content;
+  height: 856px;
+  left: -16px;
+  top: -20px;
+}
+
+.div-reward {
+  justify-content: center;
+  display: flex;
+  width: 500px;
+  height: 90px;
+  padding: 60px;
+}
+
+.dot {
+  width: 50px;
+  height: 50px;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.section-timeline {
+  box-shadow: 2px 1px 10px 0px grey;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+  margin-bottom: 60px;
+}
+
+.div-timeline {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.text-timeline {
+  margin-left: 20px;
+  justify-content: center;
+  text-align: left;
+  font-size: 17.5px;
+  align-items: center;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.section-video {
+  align-items: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.video-offlineClass {
+  padding-left: 100px;
+  margin: 50px;
+  height: 456px;
+  width: 20px;
+}
+
+.video-offlineClass-tag {
+  margin: 50px;
+  margin-top: 150px;
+  justify-content: center;
+  color: black;
+}
+
+.video-offlineClass-tag>p {
+  font-size: 15px;
+  color: black;
+}
+
+
+.video-offlineClass-tag-title {
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}

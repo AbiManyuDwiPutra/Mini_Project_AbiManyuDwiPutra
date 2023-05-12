@@ -1,0 +1,86 @@
+.footer {
+    text-align: center;
+    background-color: #002b5b;
+  }
+  
+  .content-copy {
+    display: grid;
+    justify-content: left;
+  }
+  
+  .content-copy > img {
+    margin-left: 215px;
+  }
+  
+  .copyright {
+    margin: 15px 0px 20px 90px;
+  }
+  
+  .cr {
+    color: white;
+    font-size: 10px;
+  }
+  
+  #kebijakan {
+    text-align: left;
+    margin-left: 215px;
+    color: white;
+  }
+  
+  .kebpriv {
+    margin-right: 20px;
+  }
+  
+  .homealter {
+    color: white;
+    font-size: 20px;
+    margin: 18px 0px 15px;
+  }
+  
+  #karfaq {
+    text-align: left;
+    margin-left: 28vh;
+    margin-top: 10px;
+    line-height: 40px;
+  }
+  
+  .career {
+    font-size: 15px;
+  }
+  
+  .faq {
+    font-size: 15px;
+  }
+  
+  .kontak {
+    color: white;
+    font-size: 20px;
+    margin: 10px 0px;
+  }
+  
+  #sosmed {
+    text-align: left;
+    margin-left: 25vh;
+    margin-top: 10px;
+    line-height: 40px;
+  }
+  
+  .fb {
+    color: white;
+    font-size: 15px;
+  }
+  
+  .twt {
+    color: white;
+    font-size: 15px;
+  }
+  
+  .ig {
+    color: white;
+    font-size: 15px;
+  }
+  
+  .site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+  }
